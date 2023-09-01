@@ -1,20 +1,8 @@
-/* Reset some default styles */
-body {
-    margin: 0;
-    padding: 0;
-}
-
-/* Style the questions container */
-.questions {
-    background-color: #f8fffe;
-    max-width: 600px;
-    margin: 20px auto; /* Center the container */
-    padding: 15px;
-}
-
-/* Style the question blocks */
-.question {
-    border-left: 8px solid green;
-    margin-top: 20px;
-    padding: 15px;
+blockquote{
+	background-color:#f8fffe;
+	height:50px;
+	margin-top:20px;
+	padding:15px;
+	max-width:600px;
+	border-left:8px solid green;
 }
